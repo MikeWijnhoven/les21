@@ -1,9 +1,11 @@
 header {
     background-color: lightpink;
+        width: 300;
 }
 
 footer {
     background-color: lightskyblue;
+    width: 300;
 }
 
 img {
